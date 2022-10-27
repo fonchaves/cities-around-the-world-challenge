@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1042036987737",
+    "project_id": "cities-around-the-world",
+    "storage_bucket": "cities-around-the-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042036987737:android:e41c523ade262f85f45e48",
+        "android_client_info": {
+          "package_name": "me.leandrochaves.smash_cities_around_the_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042036987737-0q3bg24gkantob5djo41j6iokpj7psso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8O2g7g-fxR1K0-K9xcIMTezCxF8F3_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042036987737-0q3bg24gkantob5djo41j6iokpj7psso.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042036987737-6tq97ajftkjn2ln2v4eigjr5bfohiho2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smashCitiesAroundTheWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
