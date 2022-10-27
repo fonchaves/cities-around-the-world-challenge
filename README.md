@@ -19,31 +19,39 @@ This test aims to assess the candidate's affinity with the main technologies use
 
 > in this topic, knowledge of noSQL/Firestore structure and affinity with these services will be evaluated
 
- - [ ] Create new firebase project [https://firebase.google.com/]
- - [ ] Design and organize the data [data/world-cities.csv] into firestore collection & docs
+ - [x] Create new firebase project [https://firebase.google.com/]
+ - [x] Design and organize the data [data/world-cities.csv] into firestore collection & docs
 
 ## NodeJS
 
 > Connection with Firebase Admin SDK is important for building backend functions, this topic will evaluate the ability to create and manipulate data using Firestore Admin SDK
 
- - [ ] Create an script to import/create data [data/world-cities.csv] into your firestore collections from the previous topic
+ - [x] Create an script to import/create data [data/world-cities.csv] into your firestore collections from the previous topic
  
 ## Flutter
 
 > Show all your creativity! In this topic, the ability to structure screens and connect them with data in the backend will be evaluated. Feel free to create!
 
- - [ ] Create a new project with your favorite platform (Android, iOS or Web)
- - [ ] Follow the UX Diagrams to create the screens
- - [ ] Connect with Firebase Firestore collections built in the previous topics
- - [ ] Display the data and create navigation between them
+ - [x] Create a new project with your favorite platform (Android, iOS or Web)
+ - [x] Follow the UX Diagrams to create the screens
+ - [x] Connect with Firebase Firestore collections built in the previous topics
+ - [x] Display the data and create navigation between them
   
 ## Git
 
 > Its time to finish!
 
- - [ ] Create a repository for your project or a fork
- - [ ] Send us your repository link
+ - [x] Create a repository for your project or a fork
+ - [x] Send us your repository link
 
 ## Issues and Questions
 
 > feel free to open issues with your questions and suggestions
+
+## Demo
+The App project can be used in the link below:
+https://leandrochavesf.github.io/cities-around-the-world-challenge/
+
+Note: Just a limited numbers of countries are used in this demo to reduce the usage of Firebase transactions.
+
+Note 2: It is possible to see some references and steps to developer this project on HELP.md file on root of this folder.
