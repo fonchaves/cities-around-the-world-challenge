@@ -1,0 +1,2 @@
+-  Jira Ticket: [Link](https://smashgift.atlassian.net/browse/[CODE])
+- Team: @smash/my-team
